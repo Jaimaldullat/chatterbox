@@ -1,6 +1,6 @@
 # 🎙️ Chatterbox TTS - Google Colab Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viveksurmay/chatterbox-colab/blob/master/chatterbox_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jaimaldullat/chatterbox/blob/3e9dbfad71e37456688cc49634e885ee9137081f/chatterbox_colab.ipynb)b)
 
 This repository contains a comprehensive Google Colab notebook for using **Chatterbox TTS** by [Resemble AI](https://resemble.ai) - a state-of-the-art open-source text-to-speech model.
 
